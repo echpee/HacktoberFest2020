@@ -46,6 +46,10 @@ Name: [Tejas Agrawal](https://github.com/cyber-venom003)<br/>
 Place: India<br/>
 About: A developer rookie from Indian Institute of Information Technology, Allahabad.<br/>
 <br/>
+Name: [Haripriya](https://github.com/echpee)<br/>
+Place: Srilanka<br/>
+About: Hacktoberfest!<br/>
+<br/>
 Name: [Muhammad Azhar](https://github.com/muazhar)<br/>
 Place: Lahore, Pakistan<br/>
 About: Hybrid App Developer <br/>
